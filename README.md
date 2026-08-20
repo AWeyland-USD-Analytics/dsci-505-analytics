@@ -19,11 +19,17 @@ This repository is structured to mirror the schedule and cadence of this 16-week
 **dsci-505-analytics/** 
 
 README.md                              <-- Repository Overview, Tech Stack, Analytics Framework & File Structure
+
 |-- week_01_intro_python/              <-- Analytics Overview & Getting Started with Python
+
 |-- week_02_data_types/                <-- Primitive Types (int, float, str, bool) & Expressions
+
 |-- week_03_control_flow/              <-- Conditional Logic (if-else) & Loops (for, while)
+
 |-- week_04_lists_collections/         <-- List Indexing, Slicing & Operations
+
 |-- week_05_functions/                 <-- Built-in & User-Defined Functions
+
 |-- week_06_files_and_data/            <-- Text/CSV File I/O & Management
 
 |-- week_07_sql_basics/                <-- SELECT Queries & WHERE Filtering

@@ -1,6 +1,6 @@
 ## DSCI 505: Business Analytics Fundamentals | Fall 2026 | Course Portfolio - Andrew Weyland
 ## University of South Dakota, Beacom School of Business | Shraddha Gawankar, Ph.D. 
-This repository contains data analytics projects, SQL queries, Python scripts, and statistical models developed as part of the MS in Business Analytics program at the Beacom School of Business, University of South Dakota.
+This repository contains data analytics projects, SQL queries, Python scripts, and statistical models developed as part of the MBA in AI for Business Analytics program at the Beacom School of Business, University of South Dakota.
 
 ## Tech Stack & Tools
 * **Programming Languages:** Python 3.x, SQL, R

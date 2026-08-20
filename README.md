@@ -17,7 +17,7 @@ Projects in this repository demonstrate the core analytical phases:
 This repository is structured to mirror the schedule and cadence of this 16-week course. Upon course completion, these files may be refactored into broader thematic folders (e.g. 01_Python, 02_sql, 03_pandas) for long-term portfolio presentation purposes. 
 
 **dsci-505-analytics/** 
-* README.md                          | Repository Overview, Tech Stack, Analytics Framework & File Structure
+-- README.md                          | Repository Overview, Tech Stack, Analytics Framework & File Structure
 * week_01_intro_python/              | Business Analytics Overview & Getting Started with Python
 * week_02_data_types/                | Primitive Types (int, float, str, bool) & Expressions
 * week_03_control_flow/              | Conditional Logic (if-else) & Loops (for, while)

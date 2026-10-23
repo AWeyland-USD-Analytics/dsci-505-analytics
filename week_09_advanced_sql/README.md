@@ -5,3 +5,5 @@
 
 ## Weekly Learning Outcome
 * *Apply SQL techniques for data extraction and analysis*
+
+* *Beginning this week, all DSCI-505 products are to uploaded to our course repos.*

@@ -44,9 +44,7 @@ This repository is structured to mirror the schedule and cadence of this 16-week
 
 |- week_12_reorganizing_data/         || *Pivoting, Melting & Reshaping Data* 
 
-|- week_13_python_db_integration/     || *SQLAlchemy, sqlite3 & pandas.read_sql* 
-
-|- week_14_data_visualization/        || *Matplotlib & Seaborn Visualizations* 
+|- week_13_data_visualization/        || *Matplotlib, Seaborn, Plotly Visualizations* 
 
 |- week_15_business_statistics/       || *Descriptive Stats, Distributions & SciPy*
 
